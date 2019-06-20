@@ -20,8 +20,9 @@ html {
 *, *:before, *:after {
   box-sizing: inherit; }
 
-body {
-  background: #ffffff; }
+.bg {
+  background-color: aqua ; }
+
   body.is-preload *, body.is-preload *:before, body.is-preload *:after {
     -moz-animation: none !important;
     -webkit-animation: none !important;
